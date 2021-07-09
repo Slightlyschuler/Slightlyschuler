@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slightlyschuler
 - 👀 I’m interested in data analysis and data sciences. The classes I have taken have given me a little bit of insight in to how developers and data analysts work.
-- 🌱 I’m currently studying data analysis and for my mathematics degree.
+- 🌱 I’m currently studying data analysis best practices while I get my mathematics degree.
 - 📫 How to reach me ...email: slightlyschuler@hotmail.com
 
 <!---
